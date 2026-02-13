@@ -4,7 +4,7 @@ I am a Software Engineer with 4+ years of experience in Full Stack Development, 
 Proficient in building scalable RESTful APIs, microservices, and end-to-end web applications using the MEAN and MERN stack. 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/tejas-havale) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tejas-havale) 
 
 # 💻 Tech Stack:
 
